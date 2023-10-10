@@ -4,9 +4,7 @@ Welcome to the README for our Calculator Demo Application created using MongoDB,
 
 This document provides an overview of the project and instructions for setting it up locally.
 
-![Calc Application](https://i.imgur.com/vz3PMT4.png){width="150px" height="70px"}
-
-![Calc History](https://i.imgur.com/HURLoVF.png){width="150px" height="70px"}
+![Calc Application](https://i.imgur.com/qdJKL85.png)
 
 ## Prerequisites
 
