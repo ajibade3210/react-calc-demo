@@ -88,7 +88,7 @@ npm run test
 ```
 If No tests found related to files changed since last commit.
 
-**Press `a` ** to run all tests.
+**Press a** to run all tests.
 
 ## Project Structure
 Here's an overview of the project structure:
