@@ -17,7 +17,7 @@ Follow these steps to set up the application on your local machine.
 
 ### Setting up the Backend
 
-1. Clone the [backend repository](https://nodejs.org/) to your local machine.
+1. Clone the [Application repository](https://github.com/ajibade3210/react-calc-demo) to your local machine.
 
 2. Navigate to the backend directory.
 
@@ -93,7 +93,7 @@ Here's an overview of the project structure:
 - `backend/`: Contains the Express.js && MongoDB server and API routes.
   - test-cases: written with `Jest` && `Supertest`.
 - `frontend/`: Contains the React.js frontend application.
-  - styling: Tailwind and @phosphor-icons/react
+  - styling: Tailwind and [@phosphor-icons/react](https://phosphoricons.com/)
   - test-cases: written with `Jest` && `@testing-library/react`.
 - `.env.example`: Example environment variable configuration.
 
