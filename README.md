@@ -74,7 +74,6 @@ You can now access the application in your web browser at `http://localhost:3000
 ## Running Test
 
 ### Backend
-
 To run the test cases in on the server side run the following command in your terminal:
 
 ```bash
@@ -82,12 +81,14 @@ npm run test
 ```
 
 ### Frontend
-
 To run the test cases in on the client side run the following command in your terminal:
 
 ```bash
 npm run test
 ```
+If No tests found related to files changed since last commit.
+
+**Press `a` ** to run all tests.
 
 ## Project Structure
 Here's an overview of the project structure:
