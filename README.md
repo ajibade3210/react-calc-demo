@@ -6,6 +6,16 @@ This document provides an overview of the project and instructions for setting i
 
 ![Calc Application](https://i.imgur.com/qdJKL85.png)
 
+## Project Structure
+Here's an overview of the project structure:
+
+- `backend/`: Contains the Express.js && MongoDB server and API routes.
+  - test-cases: written with `Jest` && `Supertest`.
+- `frontend/`: Contains the React.js frontend application.
+  - styling: Tailwind and [@phosphor-icons/react](https://phosphoricons.com/)
+  - test-cases: written with `Jest` && `@testing-library/react`.
+- `.env.example`: Example environment variable configuration.
+
 ## Prerequisites
 
 Before you get started, ensure you have the following software installed on your system:
@@ -74,14 +84,14 @@ You can now access the application in your web browser at `http://localhost:3000
 ## Running Test
 
 ### Backend
-To run the test cases in on the server side run the following command in your terminal:
+To run the test cases on the server side run the following command in your terminal:
 
 ```bash
 npm run test
 ```
 
 ### Frontend
-To run the test cases in on the client side run the following command in your terminal:
+To run the test cases on the client side run the following command in your terminal:
 
 ```bash
 npm run test
@@ -89,15 +99,5 @@ npm run test
 If No tests found related to files changed since last commit.
 
 **Press a** to run all tests.
-
-## Project Structure
-Here's an overview of the project structure:
-
-- `backend/`: Contains the Express.js && MongoDB server and API routes.
-  - test-cases: written with `Jest` && `Supertest`.
-- `frontend/`: Contains the React.js frontend application.
-  - styling: Tailwind and [@phosphor-icons/react](https://phosphoricons.com/)
-  - test-cases: written with `Jest` && `@testing-library/react`.
-- `.env.example`: Example environment variable configuration.
 
 Please feel free to customize and expand the project structure to align with your specific requirements, and i am open to receiving your valuable feedback..
