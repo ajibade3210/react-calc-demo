@@ -9,7 +9,7 @@ This document provides an overview of the project and instructions for setting i
 ## Project Structure
 Here's an overview of the project structure:
 
-- `backend/`: Contains the E`xpress.js`, `MongoDB` server and API routes.
+- `backend/`: Contains the `Express.js`, `MongoDB` server and API routes.
   - test-cases: written with `Jest` and `Supertest`.
 - `frontend/`: Contains the `React.js` frontend application.
   - styling: `Tailwind` and [@phosphor-icons/react](https://phosphoricons.com/)
